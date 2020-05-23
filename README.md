@@ -1,6 +1,12 @@
-# shop_app
+# Shop_app
 
-A new Flutter project.
+Flutter App For Owner to upload products on main server using firebase auth and firebase services(Udemy - Maximilian)
+
+Check my app here https://appetize.io/app/5088wf250mt4cumh97qrwx3954?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
+
+<img src = "ScreenShots/Login.jpg" height ="600"> <img src = "ScreenShots/Signup.jpg" height ="600"> <img src = "ScreenShots/Dashboard.jpg" height ="600">
+<img src = "ScreenShots/Orders.jpg" height ="600"> <img src = "ScreenShots/EditProfducts.jpg" height ="600"> <img src = "ScreenShots/Ordered.jpg" height ="600">
+<img src = "ScreenShots/Maindrawer.jpg" height ="600">
 
 ## Getting Started
 
