@@ -1,6 +1,6 @@
 # Shop_app
 
-Flutter App For Owner to upload products on main server using firebase auth and firebase services(Udemy - Maximilian)
+Flutter App For Owner to upload products on main server using firebase auth and firebase services
 
 Check my app here https://appetize.io/app/5088wf250mt4cumh97qrwx3954?device=nexus5&scale=75&orientation=portrait&osVersion=8.1
 
